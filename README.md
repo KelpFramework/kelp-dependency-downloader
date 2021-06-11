@@ -1,7 +1,7 @@
 # Kelp Dependency Downloader
 > (c) 2021 KelpFramework, pxav.
 
-![KDD Example screenshot](https://github.com/KelpFramework/)
+![KDD Example screenshot](https://github.com/KelpFramework/kelp-dependency-downloader/blob/master/assets/kdd_screenshot1.PNG)
 
 Kelp Dependency Downloader (KDD) is a simple CLI tool for downloading Spigot, Bukkit, and CraftBukkit using the official Spigot ``BuildTools.jar``. When developing version implementations for example, ``NMS`` code is used, which may not be distributed by Kelp for legal reasons. So everybody has to compile them by themselves, resulting in tedious work for developers.  
 
