@@ -61,9 +61,18 @@ SET VERSIONS[7].compile=1
 SET VERSIONS[8].id=1.16.5
 SET VERSIONS[8].compile=1
 
+SET VERSIONS[9].id=1.17
+SET VERSIONS[9].compile=1
+
+SET VERSIONS[10].id=1.17.1
+SET VERSIONS[10].compile=1
+
+SET VERSIONS[11].id=1.18
+SET VERSIONS[11].compile=1
+
 :: The maximum index of the versions array.
 :: This is needed by the for loops and should replace magic values.
-SET VERSION_MAX_INDEX=8
+SET VERSION_MAX_INDEX=11
 
 ECHO Welcome to Kelp Dependency Manager.
 
